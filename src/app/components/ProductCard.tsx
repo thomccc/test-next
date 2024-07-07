@@ -1,5 +1,6 @@
 import React from 'react'
 import AddToCart from './AddToCart'
+import styles from './ProductCard.module.css'
 
 const ProductCard = () => {
   return (
@@ -9,4 +10,4 @@ const ProductCard = () => {
   )
 }
 
-export default ProductCard
+export default ProductCard 
